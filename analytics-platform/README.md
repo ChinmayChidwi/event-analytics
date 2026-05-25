@@ -344,7 +344,7 @@ ACCESS_TOKEN_EXPIRE_MINUTES=30
 Add your repository link here:
 
 ```text
-https://github.com/your-username/analytics-platform
+https://github.com/ChinmayChidwi/analytics-platform
 ```
 
 ---
@@ -354,7 +354,7 @@ https://github.com/your-username/analytics-platform
 Add your deployed backend URL:
 
 ```text
-https://your-backend-url.com
+https://event-analytics-4oxr.onrender.com
 ```
 
 ---
@@ -364,7 +364,7 @@ https://your-backend-url.com
 Add your deployed frontend URL:
 
 ```text
-https://your-frontend-url.vercel.app
+https://event-analytics-nine.vercel.app/
 ```
 
 ---
